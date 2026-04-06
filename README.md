@@ -5,7 +5,7 @@
 ## 👤 Sobre mim
 
 Sou desenvolvedor focado em criar soluções práticas, automatizadas e inteligentes.  
-Atualmente sou **estudante de Engenharia de Software na PUC-Campinas**, buscando evoluir na área de desenvolvimento e construir projetos que gerem impacto real.
+Atualmente sou **estudante de Engenharia de Software na PUC-Campinas**, buscando evoluir na área de desenvolvimento e construir projetos que tragam valor na prática.
 
 ---
 
