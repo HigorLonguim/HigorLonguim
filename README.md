@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><strong>Higor Longuim</strong></h1>
+  <h1><strong>Higor Vedovello Longuim</strong></h1>
 </div>
 
 ## 👤 Sobre mim
